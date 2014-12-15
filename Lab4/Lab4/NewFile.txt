@@ -1,0 +1,7 @@
+param = C:\
+cpu=i7
+kk=i8
+jjj=i9
+ooo=i6
+uuu=i4
+ppp=i3

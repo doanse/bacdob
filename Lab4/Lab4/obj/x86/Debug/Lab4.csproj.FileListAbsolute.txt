@@ -1,0 +1,10 @@
+G:\EPAM Systems\Anton2\Lab4\Lab4\bin\Debug\Lab4.exe
+G:\EPAM Systems\Anton2\Lab4\Lab4\bin\Debug\Lab4.pdb
+G:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+G:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+G:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+D:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+D:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+D:\EPAM Systems\Anton2\Lab4\Lab4\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\EPAM Systems\Anton2\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\EPAM Systems\Anton2\Lab4\Lab4\bin\Debug\Lab4.pdb
